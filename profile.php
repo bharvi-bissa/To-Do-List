@@ -30,7 +30,7 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
           	 <li class="nav-item">
-              <a class="nav-link" href="logout.php">Settings</a>
+              <a class="nav-link" href="profile.php">Settings</a>
              </li>
             
             <li class="nav-item">
